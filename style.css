@@ -1,0 +1,43 @@
+body{
+    color: rgb(255, 255, 255);
+background-color: brown;}
+
+header{
+    text-align: center;
+}
+
+
+
+
+nav a{
+    text-decoration: none;
+    color: green;
+}
+nav a:hower {
+    color: green;
+    transition: .5px;
+}
+p:hower{
+transition: 5px;
+color: green;
+}
+main p {
+    background-color: white;
+    text-align: center;
+    color: green;
+}
+header {
+    background-color: rgb(255, 255, 255);
+    color: brown; 
+}
+main {
+    color: rgb(255, 255, 255);
+    background-color: green;
+}
+footer{
+    color: aqua;
+    background-color: black;
+}
+h1{
+color: yellow;
+}
